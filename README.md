@@ -1,2 +1,2 @@
-Brackets-ZamiereTheme
+Zamiere
 =====================
