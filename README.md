@@ -2,6 +2,7 @@ Zamiere
 =====================
 Dark theme for Brackets!
 
+![zamiere ss](https://github.com/brackets-themes/zamiere/raw/master/screenshot.png)
 
 Contributors
 ======
